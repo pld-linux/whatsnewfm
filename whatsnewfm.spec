@@ -2,12 +2,12 @@
 Summary:	A utility to filter the daily newsletter from freshmeat.net
 Summary(pl):	Narzêdzie do filtrowania codziennego newslettera z freshmeat.net
 Name:		whatsnewfm
-Version:	0.6.2
+Version:	0.6.5
 Release:	1
 License:	GPL
 Group:		Applications/Databases
 Source0:	http://www.cgarbs.de/stuff/%{name}-%{version}.tar.gz
-# Source0-md5:	532704221b9079ffa8bb9f26eb5899d4
+# Source0-md5:	6c9123b50a1b3238a7f9fb9f0b440759
 BuildRequires:	perl-tools-pod
 BuildRequires:	rpm-perlprov
 BuildArch:	noarch

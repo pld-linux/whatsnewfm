@@ -1,4 +1,4 @@
-
+%include	/usr/lib/rpm/macros.perl
 Summary:	A utility to filter the daily newsletter from freshmeat.net
 Summary(pl):	Narzêdzie do filtrowania codziennego newslettera z freshmeat.net
 Name:		whatsnewfm

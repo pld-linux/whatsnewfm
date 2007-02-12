@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	A utility to filter the daily newsletter from freshmeat.net
-Summary(pl):	Narzêdzie do filtrowania codziennego newslettera z freshmeat.net
+Summary(pl.UTF-8):   NarzÄ™dzie do filtrowania codziennego newslettera z freshmeat.net
 Name:		whatsnewfm
 Version:	0.6.5
 Release:	1
@@ -25,17 +25,17 @@ If you find an item that you consider particularly useful, you can add
 it to a "hot" list. Items in the hot list are checked for updates so
 that you don't miss anything about your favourite programs.
 
-%description -l pl
-whatsnewfm jest narzêdziem do filtrowania codziennego newslettera z
+%description -l pl.UTF-8
+whatsnewfm jest narzÄ™dziem do filtrowania codziennego newslettera z
 freshmeat.net.
 
-G³ownym jego celem jest przycinanie ogromnych newsletterów poprzez
-pokazywanie tylko tych elementów, których u¿ytkownik jeszcze nie
-widzia³. Widziane elementy s± przechowywane w bazie danych. Po jakim¶
-czasie jednak elementy te wygasaj± i zostan± znowu pokazane, gdy tylko
-siê pojawi±. Gdy który¶ z elementów jest interesuj±cy, mo¿na go dodaæ
-do tzw. hotlisty. Elementy z hotlisty s± sprawdzane za ka¿dym razem,
-wiêc nie trzeba siê martwiæ, ¿e zostan± pominiête jakiekolwiek
+GÅ‚ownym jego celem jest przycinanie ogromnych newsletterÃ³w poprzez
+pokazywanie tylko tych elementÃ³w, ktÃ³rych uÅ¼ytkownik jeszcze nie
+widziaÅ‚. Widziane elementy sÄ… przechowywane w bazie danych. Po jakimÅ›
+czasie jednak elementy te wygasajÄ… i zostanÄ… znowu pokazane, gdy tylko
+siÄ™ pojawiÄ…. Gdy ktÃ³ryÅ› z elementÃ³w jest interesujÄ…cy, moÅ¼na go dodaÄ‡
+do tzw. hotlisty. Elementy z hotlisty sÄ… sprawdzane za kaÅ¼dym razem,
+wiÄ™c nie trzeba siÄ™ martwiÄ‡, Å¼e zostanÄ… pominiÄ™te jakiekolwiek
 informacje o ulubionym programie.
 
 %prep
